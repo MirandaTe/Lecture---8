@@ -65,7 +65,7 @@ a>img {
 .image {
 	width: 100%;
 	position: absolute;
-	background: url(Banner.png);
+	background: url(../img/Banner.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
